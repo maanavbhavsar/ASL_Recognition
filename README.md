@@ -91,10 +91,6 @@ run(
 
 Requires WLASL videos and `weights/rgb_imagenet.pt`.
 
-## Project Milestone
-
-The `Project Milestone - ASL Detection/` folder contains sample images and results used for demos.
-
 ## License
 
 MIT
