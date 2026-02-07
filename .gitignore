@@ -1,0 +1,50 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+*.egg
+
+# YOLOv5 repo (cloned by setup script)
+yolov5_repo/
+
+# Large files (use Git LFS or host externally)
+*.pt
+*.pth
+*.onnx
+*.mp4
+*.avi
+*.mov
+
+# Dataset (obtain separately from WLASL)
+WLASL_v0.3.json
+
+# Run outputs
+results/
+
+# Logs and checkpoints
+*.log
+checkpoints/
+runs/
+
+# OS
+.DS_Store
+Thumbs.db
